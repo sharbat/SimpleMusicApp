@@ -1,0 +1,10 @@
+com/example/musicplay/databinding/FragmentPlayerBinding.java
+ com.example.musicplay.databinding.FragmentPlayerBinding
+com/example/musicplay/databinding/ListItemBinding.java
+ com.example.musicplay.databinding.ListItemBinding
+com/example/musicplay/BuildConfig.java
+ com.example.musicplay.BuildConfig
+com/example/musicplay/databinding/ActivityPlayerBinding.java
+ com.example.musicplay.databinding.ActivityPlayerBinding
+com/example/musicplay/databinding/ActivityMainBinding.java
+ com.example.musicplay.databinding.ActivityMainBinding

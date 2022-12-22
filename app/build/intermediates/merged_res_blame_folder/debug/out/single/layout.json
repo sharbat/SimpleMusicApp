@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Irene\\Desktop\\music-player-application-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_player.xml",
+        "source": "C:\\Users\\Irene\\Desktop\\music-player-application-main\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Irene\\Desktop\\music-player-application-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_player.xml",
+        "source": "C:\\Users\\Irene\\Desktop\\music-player-application-main\\app\\src\\main\\res\\layout\\fragment_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Irene\\Desktop\\music-player-application-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Irene\\Desktop\\music-player-application-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Irene\\Desktop\\music-player-application-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
+        "source": "C:\\Users\\Irene\\Desktop\\music-player-application-main\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]
